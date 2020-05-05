@@ -39,7 +39,7 @@ public class dadoViciado {
             //Calculation of the percentage that appeared
             num = dice[i];
             perc = ((num / nTimes) * 100);
-            System.out.println("A face " + (i + 1) + " caiu " + dice [i] + " vezes tendo um percentual de " + perc + "% de aparecer.");
+            System.out.println("A face " + (i + 1) + " caiu " + dice [i] + " times percetual of " + perc + "% apppear.");
             
 
     }
